@@ -132,7 +132,7 @@ class _HomePageState extends State<HomePage> {
                   child: Expanded(
                     child: CategoryButton(
                       text: 'D',
-                      text2: 'Khon Kaen',
+                      text2: 'Nan',
                     ),
                   ),
                 ),
